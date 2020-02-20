@@ -1,0 +1,242 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Assistant',sans-serif;
+  color: #071C4D;
+}
+
+.btn-login {
+  background-color: #071C4D;
+  color: #ffffffff;
+}
+
+.btn-login:hover {
+  background-color: #071C4D;
+  color: #ffffffff;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -30px !important;
+  height: 70px;
+  border-radius: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071C4D;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071C4D;
+}
+
+header {
+  padding: 180px 0px 165px;
+  margin-top: -70px;
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+}
+
+header h1, header p {
+  color: #ffffffff;
+  font-weight: bold;
+}
+
+header h1 {
+  font-family: 'Playfair Display',serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+header p {
+  font-size: 22px;
+}
+
+header .btn-get-started {
+  background-color: #FF9E53;
+  color: #ffffffff;
+}
+
+header .btn-get-startedhover {
+  background-color: #FFAA69;
+  color: #ffffffff;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+
+.section-stats .statis-detail {
+  padding-top: 15px;
+  background-color: #ffffffff;
+  border-radius: 5px;
+  padding-left: 40px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.section-popular {
+  min-height: 540px;
+  background-color: #05133D;
+  margin-top: -50px;
+  margin-bottom: -230px;
+}
+
+.section-popular-heading {
+  margin-top: 150px;
+}
+
+.section-popular-heading h2, .section-popular-heading p {
+  color: #ffffffff;
+}
+
+.section-popular-heading h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.section-popular-heading p {
+  font-size: 18px;
+}
+
+.section-popular-content .section-popular-travel .card-travel {
+  min-height: 380px;
+  background-color: #E4E6EB;
+  color: #05133D;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.section-popular-content .travel-country {
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.section-popular-content .travel-location {
+  font-size: 26px;
+  color: #ffffff;
+}
+
+.section-popular-content .travel-button .btn-travel-detail {
+  background-color: #FF9E53;
+  color: #E4E6EB;
+}
+
+.section-popular-content .travel-button .btn-travel-detail:hover {
+  background-color: #FFAA69;
+  color: #ffffff;
+}
+
+.section-network {
+  background-color: #ffffff;
+  padding-top: 240px;
+  margin-top: -170px;
+  padding-bottom: 50px;
+}
+
+.section-network h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+  color: #071c4d;
+}
+
+.section-network img {
+  max-width: 100%;
+}
+
+.section-testimonials-heading {
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f7f9ff));
+  background: linear-gradient(#fff 0%, #f7f9ff 100%);
+  padding-top: 50px;
+  min-height: 506px;
+}
+
+.section-testimonials-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.section-testimonial-content {
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
+
+.section-testimonial-content .card-testimonial {
+  padding: 40px 20px 10px;
+  border-radius: 11px;
+  margin-bottom: 20px;
+}
+
+.section-testimonial-content .card-testimonial .testimonial-content {
+  min-height: 380px;
+}
+
+.section-testimonial-content .card-testimonial h3 {
+  font-size: 22px;
+}
+
+.section-testimonial-content .card-testimonial .testimonial {
+  font-size: 26px;
+  text-align: center;
+  font-weight: 200;
+  color: #6e6e6e;
+}
+
+.section-testimonial-content .card-testimonial .trip-to {
+  font-weight: normal;
+  font-size: 22px;
+  color: #6e6e6e;
+}
+
+.section-testimonial-content .card-testimonial hr {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.section-testimonial-content .btn-get-started {
+  background-color: #FF9E53;
+  color: #ffffffff;
+}
+
+.section-testimonial-content .btn-get-startedhover {
+  background-color: #FFAA69;
+  color: #ffffffff;
+}
+
+.section-testimonial-content .btn-need-help {
+  background-color: #F2F2F2F2;
+  color: #C3C3C3C3;
+}
+
+.section-testimonial-content .btn-need-helphover {
+  background-color: #FAFAFA;
+  color: #ffffffff;
+}
+
+.section-footer a {
+  color: #071C4D;
+}
+
+.section-details-header {
+  min-height: 310px;
+  background: #E4E6EB;
+  margin-top: -70px;
+}
+/*# sourceMappingURL=main.css.map */
