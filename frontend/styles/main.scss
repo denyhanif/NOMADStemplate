@@ -282,6 +282,87 @@ p{
             font-size: 18px;
             color: #B1B1B1;
         }
+        .trip-information{
+            th{
+                font-weight: 300;
+                font-size: 18px;
+                color: #071C4D;;
+
+            }
+            td{
+                font-weight: 300;
+                font-size: 18px;
+                color: #b1b1b1;
+
+            }
+
+            .text-blue{
+                color: #071c4d;
+                font-weight: bold;
+            }
+            .text-yellow{
+                color: #FF9E53;
+                font-weight: bold;
+            }
+
+        }
+        .payment-instructions{
+            font-weight: 300;
+            font-size: 14px;
+            color: #b1b1b1;
+        }
+
+        .datepicker{
+            border-right: 0;
+
+        }
+        .bank{
+            .bank-item{
+                h3{
+                    font-size: 18px;
+                    color: #05133D;
+                    margin-bottom: 0;
+                }
+                p{
+                    margin-bottom: 0;
+                }
+                .desc{
+                    margin-left: 10px;
+                    overflow: hidden;
+                    float: left;
+                    color: #071c4d;
+                    p{
+                        font-weight: normal;
+                        font-size: 16px;
+                        text-align: left;
+                        color: #071c4d;
+                    }
+                }
+            }
+            .bank-image{
+                width: 45px ;
+                height: 45px;
+                float: left;
+
+            }
+            
+        }
+        .input-group-append{
+            .btn{
+                padding-right: 30px;
+            }
+        }
+        label{
+            font-weight: bold;
+        }
+        h3{
+            font-size: 18px;
+            font-family: 'Assistant','serif';
+        }
+        p{
+           font-size: 14px; 
+           font-weight: bold;
+        }
     }
 
     .features{
@@ -350,4 +431,21 @@ p{
         }
 
     }
+.btn-add-now{
+    background-color: #05133D;
+    color: white;
+    &:hover{
+        background-color: #214db3;
+        color: #fff;
+    }
+}
+}
+//success
+.btn-home-page{
+    background-color: #071c4d;
+    color: #fff;
+    &:hover{
+        background-color: #214db3;
+        color: #fff;
+        }
 }

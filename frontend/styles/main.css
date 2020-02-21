@@ -274,6 +274,86 @@ p {
   color: #B1B1B1;
 }
 
+.section-details-content .card-details .trip-information th {
+  font-weight: 300;
+  font-size: 18px;
+  color: #071C4D;
+}
+
+.section-details-content .card-details .trip-information td {
+  font-weight: 300;
+  font-size: 18px;
+  color: #b1b1b1;
+}
+
+.section-details-content .card-details .trip-information .text-blue {
+  color: #071c4d;
+  font-weight: bold;
+}
+
+.section-details-content .card-details .trip-information .text-yellow {
+  color: #FF9E53;
+  font-weight: bold;
+}
+
+.section-details-content .card-details .payment-instructions {
+  font-weight: 300;
+  font-size: 14px;
+  color: #b1b1b1;
+}
+
+.section-details-content .card-details .datepicker {
+  border-right: 0;
+}
+
+.section-details-content .card-details .bank .bank-item h3 {
+  font-size: 18px;
+  color: #05133D;
+  margin-bottom: 0;
+}
+
+.section-details-content .card-details .bank .bank-item p {
+  margin-bottom: 0;
+}
+
+.section-details-content .card-details .bank .bank-item .desc {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+  color: #071c4d;
+}
+
+.section-details-content .card-details .bank .bank-item .desc p {
+  font-weight: normal;
+  font-size: 16px;
+  text-align: left;
+  color: #071c4d;
+}
+
+.section-details-content .card-details .bank .bank-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.section-details-content .card-details .input-group-append .btn {
+  padding-right: 30px;
+}
+
+.section-details-content .card-details label {
+  font-weight: bold;
+}
+
+.section-details-content .card-details h3 {
+  font-size: 18px;
+  font-family: 'Assistant','serif';
+}
+
+.section-details-content .card-details p {
+  font-size: 14px;
+  font-weight: bold;
+}
+
 .section-details-content .features {
   margin-top: 20px;
 }
@@ -344,6 +424,26 @@ p {
 
 .section-details-content .btn-join-now:hover {
   background-color: #FFB57C;
+  color: #fff;
+}
+
+.section-details-content .btn-add-now {
+  background-color: #05133D;
+  color: white;
+}
+
+.section-details-content .btn-add-now:hover {
+  background-color: #214db3;
+  color: #fff;
+}
+
+.btn-home-page {
+  background-color: #071c4d;
+  color: #fff;
+}
+
+.btn-home-page:hover {
+  background-color: #214db3;
   color: #fff;
 }
 /*# sourceMappingURL=main.css.map */
